@@ -1,0 +1,3 @@
+build-base.hxml
+--python bin/hxcli.py
+--cmd python3 bin/hxcli.py a b

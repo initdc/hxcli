@@ -1,0 +1,4 @@
+build-base.hxml
+-D HXCPP_CATCH_SEGV
+--cpp bin/cpp
+--cmd bin/cpp/Main a b
